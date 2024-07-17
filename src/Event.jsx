@@ -24,6 +24,7 @@ const OurTour = () => {
         "https://imgur.com/q3JbOQv.jpg",
         "https://imgur.com/AoSgj8Q.jpg",
         "https://imgur.com/hQseq1e.jpg",
+        "https://imgur.com/J8DG2qG.jpg",
     ];
 
     // Define an array of topics for each image
@@ -48,7 +49,7 @@ const OurTour = () => {
         "এম্ব্রোসিয়া হোটেল",
         "সেলিব্রেশন-২০২৪",
         "কো-অর্ডিনেটর",
-        
+        "রেইস পরিবার",
     ];
 
     return (
