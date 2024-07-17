@@ -67,7 +67,7 @@ const Leader = () => {
         ,
         {
             name: "Rafidul Islam",
-            position: "Sales Officer",
+            position: "Senior Sales Officer",
             image: "https://imgur.com/qxJn96W.jpg",
             facebookId: "rafidul.islam.7545"
         }
