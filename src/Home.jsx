@@ -6,6 +6,8 @@ import Freeclass from './Freeclass';
 import Leader from './Leader';
 import Certificate from './Certificate';
 import PreviousJobs from './PreviousJobs';
+import ReviewSection from './ReviewSection';
+import SReviewSection from './SReviewSection';
 
 const Home = () => {
     return (
@@ -16,6 +18,8 @@ const Home = () => {
             <br />
             <Certificate />
             <PreviousJobs></PreviousJobs>
+            <br />
+            <ReviewSection></ReviewSection>
             <br />
             <Leader />
             <br />
