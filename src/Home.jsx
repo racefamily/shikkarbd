@@ -7,7 +7,6 @@ import Leader from './Leader';
 import Certificate from './Certificate';
 import PreviousJobs from './PreviousJobs';
 import ReviewSection from './ReviewSection';
-import SReviewSection from './SReviewSection';
 
 const Home = () => {
     return (
