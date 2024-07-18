@@ -54,7 +54,7 @@ const ReviewSection = () => {
   return (
     <div className="bg-gray-100 p-8">
       <h2 className="text-3xl font-bold text-center mb-4"> ছাত্র/ছাত্রীদের অনুভূতি</h2>
-      <div className="grid grid-cols-2 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {reviews.map(review => (
           <div key={review.id} className="bg-white p-6 rounded-lg shadow-md flex items-center">
             <img src={review.imageUrl} alt={review.author} className="rounded-full h-12 w-12 mr-4" />
