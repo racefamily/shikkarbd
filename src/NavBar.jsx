@@ -31,7 +31,7 @@ const NavBar = () => {
                 <a href="https://www.facebook.com/shikkarbd" target="_blank" rel="noopener noreferrer" className="mx-2">
                     <img src={FacebookIcon} alt="Facebook" className="w-6 h-6" />
                 </a> 
-                <a href="https://www.youtube.com/channel/UC5WLCK7ObCHGbWCw0gsmHbw" target="_blank" rel="noopener noreferrer" className="mx-2">
+                <a href="https://www.youtube.com/channel/UCD9osIORinwZBNjHM8j46dQ" target="_blank" rel="noopener noreferrer" className="mx-2">
                     <img src={YoutubeIcon} alt="Youtube" className="w-6 h-6" />
                 </a>
             </div>
