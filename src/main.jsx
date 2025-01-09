@@ -12,7 +12,6 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/Home" element={<Home />} />
-        <Route path="/FreeClass" element={<Freeclass />} />
         <Route path="/Event" element={<OurTour />} />
       </Routes>
     </Router>
