@@ -46,13 +46,6 @@ const Leader = () => {
             facebookId: "entrepreneuranika09"
         },
         {
-            name: "Sakhawat Hossain",
-            position: "Senior Sales Officer",
-            image: "https://imgur.com/8Km40Py.jpg",
-            facebookId: "Sakhawathossain6"
-        }
-        ,
-        {
             name: "Farhana Begum",
             position: "Senior Sales Officer",
             image: "https://imgur.com/OeSKmSC.jpg",
@@ -85,48 +78,6 @@ const Leader = () => {
             image: "https://imgur.com/BwUW8iZ.jpg",
             facebookId: "profile.php?id=100069573125851"
         },
-        {
-            name: "Taznubar Nahar Chowdhury",
-            position: "Sales Officer",
-            image: "https://imgur.com/G6n5TCr.jpg",
-            facebookId: "joyachydm"
-        }
-        ,
-        {
-            name: "Abdul Malek",
-            position: "Sales Officer",
-            image: "https://imgur.com/7iLyp5m.jpg",
-            facebookId: "abdulmalek2024"
-        }
-        ,
-        {
-            name: "Mohammad Morshedul Alam",
-            position: "Sales Officer",
-            image: "https://imgur.com/Z33snu2.jpg",
-            facebookId: "nbmorshed"
-        }
-        ,
-        {
-            name: "Habibul Islam Sayem",
-            position: "Sales Officer",
-            image: "https://imgur.com/83UmDRz.jpg",
-            facebookId: "habibulislamsayem"
-        }
-        ,
-        {
-            name: "Jannatul Naima",
-            position: "Sales Officer",
-            image: "https://imgur.com/lvFDpE8.jpg",
-            facebookId: "profile.php?id=61553987452207"
-        }
-        ,
-        {
-            name: "Md Imran",
-            position: "Sales Officer",
-            image: "https://imgur.com/mRiGqSk.jpg",
-            facebookId: "mdImran38"
-        }
-        ,
         {
             name: "Meherin Akter Meem",
             position: "Sales Officer",
