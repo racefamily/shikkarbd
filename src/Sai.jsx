@@ -38,7 +38,7 @@ const Sai = () => {
     <br />
     ফোন: ০১৮৬৯২৯৬৩৪৩ <br />
     ইমেইল: shikkarbd@mail.com <br />
-    ওয়েবসাইট: shikkarbd.vercel.app</p>
+    ওয়েবসাইট: https://shikkarbd.vercel.app/</p>
                     <a href={facebookURL} target="_blank" rel="noopener noreferrer" className="btn btn-primary mt-5">Facebook</a>
                 </div>
             </div>
