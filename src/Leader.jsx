@@ -5,13 +5,13 @@ const Leader = () => {
     const leaders = [
         {
             name: "সাইফুল সরকার",
-            position: "সভাপতি",
+            position: "সদস্য",
             image: "https://imgur.com/Ol9aFrd.jpg",
             facebookId: "saifullahbd0"
         },
         {
             name: "মেহেদী হাসান হিরা",
-            position: "সিনিয়র সহ-সভাপতি",
+            position: "সদস্য",
             image: "https://imgur.com/Lwk3dOh.jpg",
             facebookId: "profile.php?id=100087167029370"
         }
