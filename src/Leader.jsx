@@ -15,6 +15,13 @@ const Leader = () => {
             image: "https://imgur.com/Lwk3dOh.jpg",
             facebookId: "profile.php?id=100087167029370"
         }
+        ,
+        {
+            name: "আবু আসাদ নাদিম",
+            position: "সদস্য",
+            image: "https://imgur.com/YUZvIF4.jpg",
+            facebookId: "nadim015"
+        }
                // Add more leaders as needed
     ];
 
